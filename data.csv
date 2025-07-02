@@ -1,0 +1,46 @@
+Programming_Score,Math_Statistics_Score,Communication_Skill,Interest_in_Research,Creativity_Score,Domain_Knowledge,Preference,Academic_Stream,Experience_with_Projects,Predicted_Career_Path
+9,8,7,6,5,8,Data,CSE,5,Data Scientist
+8,7,6,5,7,7,Backend,CSE,4,Full-Stack Developer
+10,9,6,8,6,9,AI,CSE,6,Machine Learning Engineer
+7,6,5,4,5,6,Backend,ECE,3,Cybersecurity Analyst
+6,5,7,3,4,7,Cloud,ECE,2,Cloud/DevOps Engineer
+5,4,8,2,9,5,Frontend,CSE,3,UI/UX Designer
+8,7,6,5,6,8,Backend,ME,4,Software Engineer
+7,8,5,7,6,7,Data,CSE,5,Data Scientist
+6,5,8,3,8,6,Frontend,CSE,2,UI/UX Designer
+9,9,7,8,7,9,AI,CSE,7,Machine Learning Engineer
+7,6,6,5,7,7,Backend,CSE,3,Full-Stack Developer
+8,8,5,6,5,8,Data,ECE,4,Data Scientist
+6,7,7,4,6,6,Frontend,ME,3,UI/UX Designer
+9,9,8,9,7,9,AI,CSE,8,Machine Learning Engineer
+5,6,7,3,8,5,Frontend,CSE,2,UI/UX Designer
+7,7,6,5,6,7,Backend,CSE,4,Software Engineer
+8,6,7,6,5,8,Cloud,ECE,5,Cloud/DevOps Engineer
+6,5,4,3,7,6,Backend,ME,2,Cybersecurity Analyst
+9,8,6,7,6,9,Data,CSE,6,Data Scientist
+7,7,5,5,7,7,Backend,CSE,4,Full-Stack Developer
+8,9,7,8,6,8,AI,CSE,7,Machine Learning Engineer
+5,4,8,2,9,5,Frontend,CSE,3,UI/UX Designer
+6,6,7,4,5,7,Cloud,ECE,3,Cloud/DevOps Engineer
+7,8,6,6,7,8,Backend,CSE,5,Software Engineer
+9,9,8,8,7,9,AI,CSE,7,Machine Learning Engineer
+6,5,5,3,6,6,Frontend,ME,2,UI/UX Designer
+8,7,6,5,6,7,Backend,CSE,4,Full-Stack Developer
+7,6,7,5,5,8,Data,ECE,3,Data Scientist
+5,4,8,2,9,5,Frontend,CSE,2,UI/UX Designer
+9,8,7,7,6,9,AI,CSE,6,Machine Learning Engineer
+7,7,6,5,7,7,Backend,CSE,4,Software Engineer
+6,5,5,3,6,6,Cloud,ECE,3,Cloud/DevOps Engineer
+8,9,7,8,7,8,Data,CSE,7,Data Scientist
+7,6,6,5,5,7,Backend,CSE,4,Full-Stack Developer
+5,4,8,2,9,5,Frontend,ME,2,UI/UX Designer
+9,9,8,9,8,9,AI,CSE,8,Machine Learning Engineer
+6,5,7,3,6,6,Cloud,ECE,3,Cloud/DevOps Engineer
+7,7,6,5,7,7,Backend,CSE,5,Software Engineer
+8,8,7,7,6,8,Data,CSE,6,Data Scientist
+5,4,8,2,9,5,Frontend,CSE,3,UI/UX Designer
+9,9,8,8,7,9,AI,CSE,7,Machine Learning Engineer
+7,6,5,4,6,7,Backend,CSE,4,Full-Stack Developer
+6,5,6,3,5,6,Cloud,ECE,3,Cloud/DevOps Engineer
+8,7,7,6,7,8,Data,CSE,5,Data Scientist
+7,8,6,5,6,7,Backend,CSE,4,Software Engineer
