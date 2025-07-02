@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import pickle
+import joblib
 import os
 
 st.set_page_config(page_title="AI Career Path Predictor", page_icon="🧠")
@@ -11,10 +11,8 @@ st.markdown("Enter your skills and preferences to get your ideal tech career sug
 
 # Load model and encoders safely
 try:
-    with open("model.pkl", "rb") as f:
-        model = pickle.load(f)
-    with open("label_encoders.pkl", "rb") as f:
-        label_encoders = pickle.load(f)
+    model = joblib.load("model.pkl")
+    label_encoders = joblib.load("label_encoders.pkl")
 except FileNotFoundError:
     st.error("❌ Required file `model.pkl` or `label_encoders.pkl` is missing.")
     st.stop()
